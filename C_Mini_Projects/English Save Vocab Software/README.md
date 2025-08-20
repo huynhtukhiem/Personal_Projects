@@ -83,7 +83,7 @@
 
 \## 🖥️ Hướng dẫn sử dụng
 
-Chi tiết cài đặt và hướng dẫn sử dụng xem thêm tại: \[huong_dan_su_dung.docx](huong_dan_su_dung.docx) (Trong folder `EnglishSaVeVocab\_Software`)  
+Chi tiết cài đặt và hướng dẫn sử dụng xem thêm tại: \[huong_dan_su_dung.docx](huong_dan_su_dung.docx) (Trong folder `EnglishSaVeVocab_Software`)  
 
 
 
