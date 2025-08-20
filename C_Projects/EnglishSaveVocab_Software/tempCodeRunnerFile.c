@@ -1,1 +1,0 @@
-tuvung.txt
