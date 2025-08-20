@@ -1,0 +1,28 @@
+Agree;Đồng ý
+Disagree;Không đồng ý
+Characterise;Đặc trưng
+Simulate;Mô phỏng
+Pursue;Theo đuỗi
+Investigate;Điều tra
+Specialize;Chuyên môn hóa
+Recruit;Tuyển dụng
+Convince;Thuyết phục
+Undermine;Làm suy yếu
+Extend;Mở rộng
+Expand; Mở rộng
+Divorce;Tách rời/Ly hôn
+Compartmentalize;Phân chia thành các ...
+Incorporate;Kết hợp
+Combine;Kết hợp
+Retain;Giữ lại
+Institution;Tổ chức
+Invalueable;vô giá
+Excessive;Quá mức
+Concrete;Cụ thể
+Sufficient;Đủ/Hợp lí
+Insufficient;Không đủ/Không hợp lí
+Access;Truy cập
+Concrete;Cụ thể
+Generation;Thế hệ
+U;U
+Fsgfsdg;Gdfgsd
