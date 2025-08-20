@@ -10,15 +10,15 @@
 
 \- \*\*Tác giả: Huỳnh Tử Khiêm  
 
-\- \*\*Ngày thực hiện:\*\* 13/8/2025  
+\- \*\*Ngày thực hiện: 13/8/2025  
 
-\- \*\*Ngày hoàn thành:\*\* 20/8/2025  
+\- \*\*Ngày hoàn thành: 20/8/2025  
 
-\- \*\*Ý tưởng:\*\* Đề thi trắc nghiệm, phương pháp học ngắt quãng  
+\- \*\*Ý tưởng: Đề thi trắc nghiệm, phương pháp học ngắt quãng  
 
-\- \*\*Ngôn ngữ lập trình:\*\* C  
+\- \*\*Ngôn ngữ lập trình: C  
 
-\- \*\*Phần mềm lập trình:\*\* Visual Studio Code  
+\- \*\*Phần mềm lập trình: Visual Studio Code  
 
 
 
@@ -83,7 +83,7 @@
 
 \## 🖥️ Hướng dẫn sử dụng
 
-Chi tiết cài đặt và hướng dẫn sử dụng xem thêm tại: \[huong_dan_su_dung.docx](huong_dan_su_dung.docx) (Trong folder `EnglishSaVeVocab\_Software`)  
+Chi tiết cài đặt và hướng dẫn sử dụng xem thêm tại: \[huong_dan_su_dung.docx](huong_dan_su_dung.docx) (Trong folder `EnglishSaVeVocab_Software`)  
 
 
 
@@ -108,6 +108,7 @@ Chi tiết cài đặt và hướng dẫn sử dụng xem thêm tại: \[huong_d
 
 
 © 2025 Huỳnh Tử Khiêm. All rights reserved.
+
 
 
 
