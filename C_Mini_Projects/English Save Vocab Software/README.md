@@ -10,15 +10,15 @@
 
 \- \*\*Tác giả: Huỳnh Tử Khiêm  
 
-\- \*\*Ngày thực hiện:\*\* 13/8/2025  
+\- \*\*Ngày thực hiện: 13/8/2025  
 
-\- \*\*Ngày hoàn thành:\*\* 20/8/2025  
+\- \*\*Ngày hoàn thành: 20/8/2025  
 
-\- \*\*Ý tưởng:\*\* Đề thi trắc nghiệm, phương pháp học ngắt quãng  
+\- \*\*Ý tưởng: Đề thi trắc nghiệm, phương pháp học ngắt quãng  
 
-\- \*\*Ngôn ngữ lập trình:\*\* C  
+\- \*\*Ngôn ngữ lập trình: C  
 
-\- \*\*Phần mềm lập trình:\*\* Visual Studio Code  
+\- \*\*Phần mềm lập trình: Visual Studio Code  
 
 
 
