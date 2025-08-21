@@ -7,30 +7,24 @@
 #include <shellapi.h>
 #include <time.h>
 
-// Cấu trúc của một từ vựng
+// Cấu trúc của một từ vựng gồm 3 yếu tố: Từ vựng, nghĩa có nó, loại từ của nó
 typedef struct {
     char tu[50];
     char nghia[100];
     char loai[10];
 } Tuvung;
 
-// Cấu trúc của một câu hỏi
+// Cấu trúc của một câu hỏi ôn tập gồm 1 từ Tiếng Anh và 4 từ nghĩa Tiếng ViệtViệt
 typedef struct {
     char Eng[100];
     char Vie[100];
 } Word;
 
 // Khai báo prototype
-void Menu_Chinh();
-void Nhap_tu_vung_moi();
-void Chuan_hoa_chuoi(char str[]);
-void Ghi_vao_file(Tuvung tv);
-void Ghi_vao_file_data(Tuvung tv);
-void Them_1_tu(Tuvung *tv, const char *Loai_tu);
-Word* Doc_file_data(const char* filename, int* count);
-void Tao_Quiz(Word* list, int n);
-void On_tu_vung();
-void Cai_dat();
+void Menu_Chinh(); // Menu chức năng chính của phần mềm
+void Nhap_tu_vung_moi(); // Nhập từ vựng mới
+void Chuan_hoa_chuoi(char str[]); // Chuẩn hóa văn bản
+
 // Nhập từ vựng mới và gia đình từ
 void Nhap_tu_vung_moi() {
     int choice;
